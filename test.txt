@@ -3,4 +3,5 @@ second text
 first added text from brach b1 
 sec added text from branch b1
 hello from main
+hello from b2
 
